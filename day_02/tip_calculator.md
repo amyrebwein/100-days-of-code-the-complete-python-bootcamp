@@ -1,3 +1,6 @@
+Tip Calculator
+==============
+
 ```
 Welcome to the tip calculator.
 What was the total bill? $124.56
